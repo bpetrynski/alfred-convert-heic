@@ -21,7 +21,7 @@ Convert HEIC images to JPG format efficiently with the **Alfred HEIC to JPG** wo
    brew install imagemagick
    ```
 
-2. **Download and Install the Workflow**: Download the latest release of **Alfred HEIC to JPG** from the [Releases](https://github.com/yourusername/alfred-heic-to-jpg/releases) page. Double-click the workflow file to import it into Alfred.
+2. **Download and Install the Workflow**: Download the latest release of **Alfred HEIC to JPG** from the [Releases](https://github.com/bpetrynski/alfred-convert-heic/releases/) page. Double-click the workflow file to import it into Alfred.
 
 ## Usage
 
